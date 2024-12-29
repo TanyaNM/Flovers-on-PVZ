@@ -15,7 +15,7 @@ h1{
     font-size: 50px;
 }
 .catalog {
-    height: 1500px;
+    height: 1200px;
     background-color: lightblue;
     flex-wrap: wrap;
 }
